@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/airBooking/static/css/main.44e9bdca.css",
+    "main.js": "/airBooking/static/js/main.33f4e424.js",
+    "static/js/453.d02e1658.chunk.js": "/airBooking/static/js/453.d02e1658.chunk.js",
+    "index.html": "/airBooking/index.html",
+    "main.44e9bdca.css.map": "/airBooking/static/css/main.44e9bdca.css.map",
+    "main.33f4e424.js.map": "/airBooking/static/js/main.33f4e424.js.map",
+    "453.d02e1658.chunk.js.map": "/airBooking/static/js/453.d02e1658.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44e9bdca.css",
+    "static/js/main.33f4e424.js"
+  ]
+}
